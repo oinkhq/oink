@@ -9,7 +9,7 @@
    a TODOS los enlaces y botones correspondientes.
    --------------------------------------------------------- */
 const CONFIG = {
-  buyUrl: "https://github.com/oinkhq/oink",   // 
+  buyUrl: "https://launchhood.com/token/0x0374459876b8bfb39811366B699E77F2e241c0De",   // 
   chartUrl: "https://dexscreener.com/robinhood/0x38b7db71aeca1ffcf1abcb1e7ce1147fa05c8d1f", // 
 };
 
