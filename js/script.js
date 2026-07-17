@@ -9,8 +9,8 @@
    a TODOS los enlaces y botones correspondientes.
    --------------------------------------------------------- */
 const CONFIG = {
-  buyUrl: "https://github.com/oinkhq/oink",   // URL futura: Launchhood
-  chartUrl: "#", // URL futura: Uniswap V3
+  buyUrl: "https://github.com/oinkhq/oink",   // 
+  chartUrl: "https://dexscreener.com/robinhood/0x38b7db71aeca1ffcf1abcb1e7ce1147fa05c8d1f", // 
 };
 
 /* ---------------------------------------------------------
