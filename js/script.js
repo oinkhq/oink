@@ -9,7 +9,7 @@
    a TODOS los enlaces y botones correspondientes.
    --------------------------------------------------------- */
 const CONFIG = {
-  buyUrl: "#",   // URL futura: Launchhood
+  buyUrl: "https://github.com/oinkhq/oink",   // URL futura: Launchhood
   chartUrl: "#", // URL futura: Uniswap V3
 };
 
